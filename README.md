@@ -1,5 +1,9 @@
-### Rome_10_2019
+### Rome 2019
 Some info about trip to Rome in October, 2019.
+
+## Flight
+* [Flight to Rome](https://www.flightera.net/flight/Aeroflot/SU2408)
+* [Flight to Moscow](https://www.flightera.net/flight/Aeroflot/SU2409)
 
 ## Apartments
 * [Vatican's Sight Vaticano, $461](https://www.airbnb.ru/rooms/36372250?adults=5&check_in=2019-10-14&check_out=2019-10-18&source_impression_id=p3_1568484730_0tl8jpKTwoK0ZWf8)
