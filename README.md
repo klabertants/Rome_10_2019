@@ -17,14 +17,14 @@ Some info about trip to Rome in October, 2019.
 
 [The booking confirmation](https://www.airbnb.ru/trips/v1/d425f2ac-6bec-4f4b-b910-056aa8c12c61/ro/RESERVATION_USER_CHECKIN/HMAKNZXEZ3/g)
 
-## Activities
+## Places
 * [Trastavere](https://www.google.com/search?q=Trastavere)
 * [Gealerria Borgese](https://www.google.com/search?q=gealerria+borgese)
 * [Vatican](https://www.google.com/search?q=vatican)
 
 ## Food
 * [Trattoria al Moro](https://goo.gl/maps/TkZxDJnPU4URUKTDA)
-* [II Panzotto](https://goo.gl/maps/Su9WqbYoKRsXEVwz9
+* [II Panzotto](https://goo.gl/maps/Su9WqbYoKRsXEVwz9)
 * [Trattoria Pizzeria Vecchia Roma](https://www.facebook.com/Trattoria-Pizzeria-Vecchia-Roma-1665945367041929/)
 * Excellent breakfast at any cafe on Piazza Navona
 
