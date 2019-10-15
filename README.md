@@ -28,6 +28,7 @@ Some info about trip to Rome in October, 2019.
 * [Trattoria Pizzeria Vecchia Roma](https://www.facebook.com/Trattoria-Pizzeria-Vecchia-Roma-1665945367041929/)
 * Excellent breakfast at any cafe on Piazza Navona
 * Very nice [dough with the tomatoes](https://www.tripadvisor.ru/Restaurant_Review-g187791-d1024861-Reviews-Le_Mani_in_Pasta-Rome_Lazio.html)
+* [Sanlollo](https://www.sanlollo.it/)
 
 ## Drinks
 * [Good wine at la Bottega W](https://www.facebook.com/labottegaw/)
